@@ -9,7 +9,7 @@ React food order app (utilizing all of React "basics")
 
 ### Project Overview
 
-This project was my first substantial React project and a final part of my React course on Udemy. This food order app was a great exersize for me to use all the skills I learned in the basics of React fundamentals. 
+This project was my first substantial React project and part of my React course on Udemy. This food order app was a great exercize for me to use all the skills I learned in the basics of React fundamentals. 
 
 From creating components, containers, managing state, utilizing react hooks, context, modals, and fetching data to form validation, dynamically rendering JSX and conditionally rendering classes.
 
